@@ -1,0 +1,24 @@
+Dependencies for Project 'RTOS', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5DD94294)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\aravi\OneDrive\Desktop\km\RTOS\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (kmlib.h)(0x5D95A486)
+I (km_tm4c123gh6pm.h)(0x59AD46A8)
+F (.\pll.c)(0x5BA3F0E9)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\aravi\OneDrive\Desktop\km\RTOS\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DTM4C123GH6PM-o .\objects\pll.o --omf_browse .\objects\pll.crf --depend .\objects\pll.d)
+I (pll.h)(0x5BA3F161)
+I (km_tm4c123gh6pm.h)(0x59AD46A8)
+F (.\km_startup.s)(0x5B5AF9B9)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\aravi\OneDrive\Desktop\km\RTOS\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 517" --pd "TM4C123GH6PM SETA 1"--list .\listings\km_startup.lst --xref -o .\objects\km_startup.o --depend .\objects\km_startup.d)
+F (.\kmlib.lib)(0x5DA8CDCD)()
+F (.\km_tm4c123gh6pm.h)(0x59AD46A8)()
+F (.\kmlib.h)(0x5D95A486)()
+F (.\task0.c)(0x5DD918D4)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\aravi\OneDrive\Desktop\km\RTOS\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DTM4C123GH6PM-o .\objects\task0.o --omf_browse .\objects\task0.crf --depend .\objects\task0.d)
+I (km_tm4c123gh6pm.h)(0x59AD46A8)
+I (kmlib.h)(0x5D95A486)
+F (.\task1.c)(0x5DD94292)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\aravi\OneDrive\Desktop\km\RTOS\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DTM4C123GH6PM-o .\objects\task1.o --omf_browse .\objects\task1.crf --depend .\objects\task1.d)
+I (km_tm4c123gh6pm.h)(0x59AD46A8)
+I (kmlib.h)(0x5D95A486)
+F (.\task2.c)(0x5DD93CC1)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\aravi\OneDrive\Desktop\km\RTOS\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DTM4C123GH6PM-o .\objects\task2.o --omf_browse .\objects\task2.crf --depend .\objects\task2.d)
+I (kmlib.h)(0x5D95A486)
+I (km_tm4c123gh6pm.h)(0x59AD46A8)
+F (.\task3.c)(0x5DD942B3)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\aravi\OneDrive\Desktop\km\RTOS\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DTM4C123GH6PM-o .\objects\task3.o --omf_browse .\objects\task3.crf --depend .\objects\task3.d)
+I (kmlib.h)(0x5D95A486)
+I (km_tm4c123gh6pm.h)(0x59AD46A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB4E9E)

@@ -1,0 +1,14 @@
+Dependencies for Project 'RTOS', Target 'RTOS': (DO NOT MODIFY !)
+F (.\startup.s)(0x54CA4DF4)(--cpu Cortex-M4 -g --apcs=interwork -I.\RTE\_RTOS-IC:\Users\kishore\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\kishore\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "LM4F120 SETA 1"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\osasm.s)(0x583F1CC2)(--cpu Cortex-M4 -g --apcs=interwork -I.\RTE\_RTOS-IC:\Users\kishore\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\kishore\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "LM4F120 SETA 1"--list .\osasm.lst --xref -o .\osasm.o --depend .\osasm.d)
+F (.\os.c)(0x5CED2A5C)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\.. --C99-I.\RTE\_RTOS-IC:\Users\kishore\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\kishore\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DLM4F120 -Drvmdk -DPART_LM4F120H5QR-o .\os.o --omf_browse .\os.crf --depend .\os.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB9D0A)
+I (os.h)(0x5CB82A42)
+I (PLL.h)(0x583F200F)
+F (.\PLL.c)(0x583F200E)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\.. --C99-I.\RTE\_RTOS-IC:\Users\kishore\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\kishore\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DLM4F120 -Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x583F200F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB9D0A)
+I (inc/tm4c123gh6pm.h)(0x576E6DA4)
+F (.\user.c)(0x5CED227F)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\.. --C99-I.\RTE\_RTOS-IC:\Users\kishore\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\kishore\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DLM4F120 -Drvmdk -DPART_LM4F120H5QR-o .\user.o --omf_browse .\user.crf --depend .\user.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB9D0A)
+I (os.h)(0x5CB82A42)
